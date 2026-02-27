@@ -1,5 +1,6 @@
-{ "version": "2.1.0", "downloadUrl": "https://drive.google.com/file/d/1_38runr2HufgMxKcQlsjb4a6VSQ6XrdA/view?usp=sharing" }
-
-
-
-
+{
+  "version": "2.1.0",
+  "downloadUrl": "https://github.com/Noversky/nwebbrowser2.0Updater/releases/download/v2.1.0/nvbrowser-2.1.0.zip",
+  "releaseNotes": "NVBrowser 2.1.0 - улучшения и исправления",
+  "releaseDate": "2026-02-27"
+}
